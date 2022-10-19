@@ -1,10 +1,6 @@
 package it.unisa.diem.oop22.veicoli;
 import it.unisa.diem.oop22.box.TargaNonValidaException;
 
-/**
- *
- * @author emo
- */
 public  abstract class Veicolo {
     
     private String numTelaio;
