@@ -1,10 +1,6 @@
 package it.unisa.diem.oop22.box;
 import it.unisa.diem.oop22.veicoli.Veicolo;
 
-/**
- *
- * @author emo
- */
 public class Autorimessa extends Box {
     
         private Veicolo veicoli[];
