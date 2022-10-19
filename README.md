@@ -4,4 +4,4 @@ This repository contains school project done by me and my group of friends in Ja
 This isn't a repository for commercial use, but only for educational use.
 
 Official GitHub account:
-- @Kirito-Emo
+- [Kirito-Emo](https://github.com/Kirito-Emo)
