@@ -1,9 +1,6 @@
 package it.unisa.diem.oop22.box;
 import it.unisa.diem.oop22.veicoli.Veicolo;
-/**
- *
- * @author Francesco Quagliuolo
- */
+
 public abstract class Box {
     public final  int maxPosti;
     private String nome;
