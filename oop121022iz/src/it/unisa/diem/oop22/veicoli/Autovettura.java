@@ -1,9 +1,5 @@
 package it.unisa.diem.oop22.veicoli;
 
-/**
- *
- * @author emo
- */
 public class Autovettura extends Veicolo{
     
     private final int numeroPosti;
