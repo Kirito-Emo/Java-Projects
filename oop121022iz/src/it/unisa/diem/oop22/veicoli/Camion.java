@@ -1,9 +1,5 @@
 package it.unisa.diem.oop22.veicoli;
 
-/**
- *
- * @author Francesco Quagliuolo
- */
 public class Camion extends Veicolo {
     
     private final int numeroAssi;
