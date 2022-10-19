@@ -1,9 +1,5 @@
 package it.unisa.diem.oop22.veicoli;
 
-/**
- *
- * @author emo
- */
 public class Moto extends Veicolo {
     
     private boolean guidaLibera;
